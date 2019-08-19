@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jurist_Tracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_directions_key">your google server key</string>
+</resources>
